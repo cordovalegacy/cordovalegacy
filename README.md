@@ -17,6 +17,7 @@
           <td>Python</td>
           <td>TypeScript</td>
           <td>Java</td>
+          <td>React Native</td>
         </tr>
         <tr>
           <th>Frameworks:</th>
@@ -30,15 +31,17 @@
         <tr>
           <th>Databases:</th>
           <td>MongoDB</td>
-          <td>Firebase</td>
           <td>MySQL</td>
           <td>Postgres</td>
+          <td>Firebase</td>
+          <td>...</td>
           <td>...</td>
         </tr>
         <tr>
           <th>Styling:</th>
           <td>CSS</td>
           <td>Tailwind CSS</td>
+          <td>Daisy UI</td>
           <td>Bootstrap</td>
           <td>SCSS</td>
           <td>Material UI</td>
@@ -50,11 +53,13 @@
           <td>Vercel</td>
           <td>GitHub</td>
           <td>...</td>
+          <td>...</td>
         </tr>
         <tr>
           <th>Tools:</th>
           <td>Git</td>
           <td>VSCode</td>
+          <td>Figma</td>
           <td>Postman</td>
           <td>Miro</td>
           <td>Terminal</td>
