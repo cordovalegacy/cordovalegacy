@@ -16,7 +16,7 @@
           <td>JavaScript</td>
           <td>Python</td>
           <td>TypeScript</td>
-          <td>React Native</td>
+          <td>Java</td>
         </tr>
         <tr>
           <th>Frameworks:</th>
@@ -25,13 +25,14 @@
           <td>ExpressJS</td>
           <td>JQuery</td>
           <td>Flask</td>
+          <td>Django</td>
         </tr>
         <tr>
           <th>Databases:</th>
           <td>MongoDB</td>
           <td>Firebase</td>
           <td>MySQL</td>
-          <td>...</td>
+          <td>Postgres</td>
           <td>...</td>
         </tr>
         <tr>
@@ -39,8 +40,8 @@
           <td>CSS</td>
           <td>Tailwind CSS</td>
           <td>Bootstrap</td>
-          <td>SASS</td>
           <td>SCSS</td>
+          <td>Material UI</td>
         </tr>
         <tr>
           <th>Deployment:</th>
@@ -71,9 +72,9 @@
     <div>
       <h2>I'm Currently Learning...</h2>
       <p>GraphQL</p>
+      <p>Apollo Client</p>
       <p>Django</p>
-      <p>Material UI</p>
-      <p>Apollo</p>
+      <p>Postgres</p>
       <p>Data Structures & Algorithms</p>
     </div>
     <div>
@@ -84,11 +85,11 @@
     </div>
     <div>
      <h2>Deployed Projects</h2>
+      <a href="http://www.aisop.io/">AI Generated Adventure Game</a>
+      <a href="http://www.booksbeatsbox.com/">Independent Artist Social Media Platform</a>
       <a href="http://www.legacybuildspc.com/">Legacy Builds E-Commerce Site</a>
-      <a href="https://www.linkedin.com/posts/brendan-cordova-2874011ba_update-new-sprints-added-to-project-added-ugcPost-7066596851277250560-6vXH/?utm_source=share&utm_medium=member_desktop">Dispatch Demo (LinkedIn)</a>
+      <a href="https://www.linkedin.com/posts/brendan-cordova-2874011ba_update-new-sprints-added-to-project-added-ugcPost-7066596851277250560-6vXH/?utm_source=share&utm_medium=member_desktop">Dispatch Chat App Demo (LinkedIn)</a>
       <a href="https://imdb-clone-cordovalegacy.vercel.app/">IMDB Clone</a>
-      <a href="https://glacial-dawn-05023.herokuapp.com/">Specialist in Probate</a>
-      <a href="https://agile-chamber-82558.herokuapp.com/">Portfolio</a>
     </div>
     <div>
       <h2>Contact Me!</h2>
