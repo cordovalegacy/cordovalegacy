@@ -7,6 +7,8 @@
     <div>
       <img src="https://media0.giphy.com/media/10AoZDUmPrhguQ/giphy.webp?cid=ecf05e472nbq66zbyg50afzo73ftdh94uog6du9y9r7r1f1m&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="gif"/>
         <p>Welcome in! Feel free to take a look through my GitHub repositories.</p>
+        <p>200+ Repositories</p>
+        <p>1800 Contributions</p>
       </div>
     <table>
       <tbody>
