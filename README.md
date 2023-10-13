@@ -7,8 +7,8 @@
     <div>
       <img src="https://media0.giphy.com/media/10AoZDUmPrhguQ/giphy.webp?cid=ecf05e472nbq66zbyg50afzo73ftdh94uog6du9y9r7r1f1m&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="gif"/>
         <p>Welcome in! Feel free to take a look through my GitHub repositories.</p>
-        <p>200+ Repositories</p>
-        <p>1800 Contributions</p>
+        <p>210+ Repositories</p>
+        <p>2000 Contributions</p>
       </div>
     <table>
       <tbody>
@@ -16,16 +16,18 @@
           <th>Languages:</th>
           <td>React</td>
           <td>JavaScript</td>
-          <td>Python</td>
+          <td>React Native</td>
           <td>TypeScript</td>
           <td>Java</td>
-          <td>React Native</td>
+          <td>Python</td>
+          <td>SQL/NoSQL</td>
         </tr>
         <tr>
           <th>Frameworks:</th>
           <td>NodeJS</td>
           <td>NextJS</td>
           <td>ExpressJS</td>
+          <td>Spring</td>
           <td>JQuery</td>
           <td>Flask</td>
           <td>Django</td>
@@ -34,14 +36,16 @@
           <th>Databases:</th>
           <td>MongoDB</td>
           <td>MySQL</td>
-          <td>Postgres</td>
+          <td>Postgres SQL</td>
           <td>Firebase</td>
+          <td>...</td>
           <td>...</td>
           <td>...</td>
         </tr>
         <tr>
           <th>Styling:</th>
           <td>CSS</td>
+          <td>React Native Styling</td>
           <td>Tailwind CSS</td>
           <td>Daisy UI</td>
           <td>Bootstrap</td>
@@ -56,11 +60,13 @@
           <td>GitHub</td>
           <td>...</td>
           <td>...</td>
+          <td>...</td>
         </tr>
         <tr>
           <th>Tools:</th>
           <td>Git</td>
           <td>VSCode</td>
+          <td>IntelliJ</td>
           <td>Figma</td>
           <td>Postman</td>
           <td>Miro</td>
@@ -78,11 +84,12 @@
     </div>
     <div>
       <h2>I'm Currently Learning...</h2>
+      <p>Postgres</p>
+      <p>React Native</p>
+      <p>Java</p>
+      <p>Spring Boot</p>
       <p>GraphQL</p>
       <p>Apollo Client</p>
-      <p>Django</p>
-      <p>Postgres</p>
-      <p>Data Structures & Algorithms</p>
     </div>
     <div>
      <h2>I'm Looking for These Roles!</h2>
