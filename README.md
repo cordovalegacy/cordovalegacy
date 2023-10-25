@@ -88,8 +88,7 @@
       <p>React Native</p>
       <p>Java</p>
       <p>Spring Boot</p>
-      <p>GraphQL</p>
-      <p>Apollo Client</p>
+      <p>Kotlin</p>
     </div>
     <div>
      <h2>I'm Looking for These Roles!</h2>
