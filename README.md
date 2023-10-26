@@ -21,6 +21,7 @@
           <td>Java</td>
           <td>Python</td>
           <td>SQL/NoSQL</td>
+          <td>Kotlin</td>
         </tr>
         <tr>
           <th>Frameworks:</th>
