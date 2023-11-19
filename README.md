@@ -77,7 +77,7 @@
     </table>
     <div>
       <h2>Please checkout my note worthy projects!</h2>
-      <p>Legacy Deployment (E-Commerce)</p>
+      <p>Legacy Builds (E-Commerce)</p>
       <p>Dispatch (Chat Application)</p>
       <p>IMDB Clone (Movie API)</p>
       <p>Google Clone (Search Engine)</p>
