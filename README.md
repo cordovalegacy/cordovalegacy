@@ -1,7 +1,7 @@
 <body>
   <header>
     <h1>Brendan Cordova</h1>
-    <h2>Full Stack Software Engineer</h2>
+    <h2>Full Stack Software Engineer (Mobile/Web)</h2>
   </header>
   <main>
     <div>
