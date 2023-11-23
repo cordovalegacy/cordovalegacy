@@ -95,7 +95,7 @@
      <h2>I'm Looking for These Roles!</h2>
       <p>Full Stack Software Engineer</p>
       <p>Frontend Software Developer</p>
-      <p>Software Consultant</p>
+      <p>Mobile Developer</p>
     </div>
     <div>
      <h2>Deployed Projects</h2>
