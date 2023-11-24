@@ -78,9 +78,13 @@
     <div>
       <h2>Please checkout my note worthy projects!</h2>
       <p>Legacy Builds (E-Commerce)</p>
+      <br>
       <p>Dispatch (Chat-Application)</p>
+      <br>
       <p>IMDB Clone (Movie API)</p>
+      <br>
       <p>Google Clone (Search Engine)</p>
+      <br>
       <p>Pokemon Manager (Pokemon Team Builder)</p>
     </div>
     <div>
