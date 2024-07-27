@@ -89,11 +89,11 @@
     </div>
     <div>
       <h2>I'm Currently Learning...</h2>
-      <p>Postgres</p>
-      <p>React Native</p>
-      <p>Java</p>
-      <p>Spring Boot</p>
-      <p>Kotlin</p>
+      <p>Flutter/Dart</p>
+      <p>Scripting</p>
+      <p>Ruby</p>
+      <p>Docker/Kubernetes</p>
+      <p>Vue</p>
     </div>
     <div>
      <h2>I'm Looking for These Roles!</h2>
